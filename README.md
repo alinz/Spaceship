@@ -1,2 +1,2 @@
 # Spaceship
-It's time to send Docker Containers to space.
+It's time to control docker from space.
